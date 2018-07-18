@@ -24,6 +24,15 @@ h2 заголовок второго уровня
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
+```c++
+<#include <iostream>
+int main ()
+{
+	printf("Hello World");
+	return 0;
+}>
+```
+
 ```php
 <?php here_pagecontent(); ?>
 ```
