@@ -25,12 +25,12 @@ h2 заголовок второго уровня
 ```
 
 ```c++
-<#include <iostream>
+#include <iostream>
 int main ()
 {
 	printf("Hello World");
 	return 0;
-}>
+}
 ```
 
 ```php
