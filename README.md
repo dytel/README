@@ -20,7 +20,7 @@ h2 заголовок второго уровня
     dir /images
     dir /js
 	
-	```html
+```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
